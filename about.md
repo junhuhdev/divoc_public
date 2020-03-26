@@ -4,6 +4,8 @@ Divoc exists to help people who needs help with grocery shopping or buying other
 
 Divoc aims as a tool to allow people to help others in need with various tasks.
 
+Divoc is currently only available in Sweden.
+
 ### Service we Provide
 
 We provide support through various services.
